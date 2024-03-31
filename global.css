@@ -17,6 +17,7 @@ body {
   --font-size-xl: 20px;
   --font-size-base: 16px;
   --font-size-xs: 12px;
+  --font-size-11xl: 30px;
 
   /* Colors */
   --color-whitesmoke: #eee;
@@ -26,6 +27,7 @@ body {
   --color-gainsboro-200: #d8d8d8;
   --color-royalblue-100: #2d7ffa;
   --color-darkslategray: #3a3a3a;
+  --color-lavender-100: #dbe2f7;
   --color-blue: #001aff;
   --color-black: #000;
   --color-dodgerblue-100: #4799ff;
@@ -75,8 +77,11 @@ body {
   --padding-7xs: 6px;
   --padding-lg: 18px;
   --padding-8xs: 5px;
+  --padding-150xl: 169px;
+  --padding-149xl: 168px;
   --padding-13xl: 32px;
   --padding-5xs: 8px;
+  --padding-12xs: 1px;
 
   /* Border radiuses */
   --br-11xl: 30px;
